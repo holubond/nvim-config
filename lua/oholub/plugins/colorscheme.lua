@@ -32,7 +32,7 @@ return {
 			require('vscode').setup({
 
 				-- Enable transparent background
-		    		transparent = false,
+	    		transparent = false,
 				-- Enable italic comment
 				italic_comments = true,
 				-- Disable nvim-tree background color
